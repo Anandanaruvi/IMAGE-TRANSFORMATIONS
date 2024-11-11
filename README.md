@@ -57,7 +57,8 @@ plt.title("Translated Image")
 plt.axis('off')
 ```
 ### OUTPUT:
-![PHO 2 EX 4](https://github.com/user-attachments/assets/82d2176f-62e6-49ad-8602-d452fe9e243d)
+![image](https://github.com/user-attachments/assets/ed6003df-76c3-415a-b429-3870ac9ddbfe)
+
 
 
 
@@ -73,7 +74,7 @@ plt.axis('off')
 
 ### OUTPUT:
 
-![PHO 3 EX 4](https://github.com/user-attachments/assets/3a332f64-2301-4fa9-a5d7-cacad93230ff)
+![image](https://github.com/user-attachments/assets/24f4e867-0515-440d-9d98-4f525b303065)
 
 
 
@@ -88,9 +89,7 @@ plt.title("Sheared Image")
 plt.axis('off')
 ```
 ### OUTPUT:
-
-![image](https://github.com/user-attachments/assets/45ef034a-0741-4703-a856-4d7e6b13b319)
-
+![image](https://github.com/user-attachments/assets/a598eafb-6107-47c0-b0b4-29c2faecbb04)
 
 
 ### iv)Image Reflection:
@@ -103,10 +102,7 @@ plt.title("Reflected Image")
 plt.axis('off')
 ```
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/19985382-4a9b-4d12-818e-7eaa66afe52e)
-
-
-
+![image](https://github.com/user-attachments/assets/ad6e684c-b2d9-449e-bd8a-20477501275d)
 
 
 ### v.)Image Rotation:
@@ -121,9 +117,7 @@ plt.tight_layout()
 plt.show()
 ```
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/18d0a6a8-4376-43d9-8074-fb3c7b94e2f3)
-
-
+![image](https://github.com/user-attachments/assets/6fa2f319-0d45-4a23-ae87-4646963046ce)
 
 
 
@@ -137,8 +131,7 @@ plt.axis('off')
 plt.show()
 ```
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/9faff588-0267-4f09-85fb-0b58bf42e105)
-
+![image](https://github.com/user-attachments/assets/67886f88-c430-462f-be99-0c90464dec31)
 
 
 
